@@ -1,4 +1,4 @@
-# Resume_challenge
+# Resume_challenge_ju hun
 
 참고 : [https://cloudresumechallenge.dev/docs/the-challenge/aws/](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
